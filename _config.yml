@@ -1,9 +1,0 @@
-# Site settings
-title: Great New Blog Title
-author:
-  name: Jinjuan Shi
-  email: jinjuanshi@gmail.com
-description: "Great site about Jekyll on GH-Pages."
-
-# Build settings
-theme: jekyll-theme-architect
